@@ -9,7 +9,11 @@
 .settings
 .springBeans
 .sts4-cache
+<<<<<<< HEAD
+target/
+=======
 */target/**
+>>>>>>> initial_release
 
 ### IntelliJ IDEA ###
 .idea
